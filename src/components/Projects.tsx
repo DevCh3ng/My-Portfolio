@@ -18,13 +18,13 @@ const projectsData = [
     title: '.NET XML-XSLT Hosting',
     description: 'Implementing a hosting XML-XLST server using .NET',
     githubUrl: 'https://github.com/DevCh3ng/.net-xmlxslt-webhosting',
-    image: '/profile.jpg', 
+    image: '/xmldotnet.png', 
   },
   {
     title: 'AI_SignLanguage_Translator (Ongoing)',
     description: 'Making an AI sign language translator using DL model to a string of text',
     githubUrl: 'https://github.com/DevCh3ng/AI_SignLanguage_Translate',
-    image: '/profile.jpg', 
+    image: '/aisign_lang.png', 
   },
 ];
 
