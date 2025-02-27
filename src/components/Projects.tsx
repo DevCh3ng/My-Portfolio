@@ -6,7 +6,7 @@ const projectsData = [
     title: 'Personal Website',
     description: 'A portfolio website built with Next.js and Tailwind CSS.',
     githubUrl: 'https://github.comm/DevCh3ng/My-Portfolio',
-    image: '/portfolio.png', // always put images on /public jpg/png
+    image: '/portfolio.jpg', // always put images on /public jpg/png
   },
   {
     title: 'UVA_Solutions (Ongoing)',
@@ -18,13 +18,13 @@ const projectsData = [
     title: '.NET XML-XSLT Hosting',
     description: 'Implementing a hosting XML-XLST server using .NET',
     githubUrl: 'https://github.com/DevCh3ng/.net-xmlxslt-webhosting',
-    image: '/xmldotnet.png', 
+    image: '/xmldotnet.jpg', 
   },
   {
     title: 'AI_SignLanguage_Translator (Ongoing)',
     description: 'Making an AI sign language translator using DL model to a string of text',
     githubUrl: 'https://github.com/DevCh3ng/AI_SignLanguage_Translate',
-    image: '/aisign_lang.png', 
+    image: '/aisign_lang.jpg', 
   },
 ];
 
