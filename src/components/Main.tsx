@@ -11,7 +11,7 @@ const Main = () => {
             Computer Science Student with Network and Systems concentration.
           </p>
           <a 
-            href="/cv.pdf" 
+            href="/resume.pdf" 
             download="Devin_CV.pdf" 
             className="mt-6 inline-block bg-blue-500 px-6 py-2 rounded-lg text-white hover:bg-blue-600"
           >
